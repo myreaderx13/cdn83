@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pt">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>PLUG - Índice</title>
+
+
+<!-- PLUG WEBSITE BEGIN -->
+<!-- Google Web fonts -->
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,100,200,500,600,800,700,900' rel='stylesheet' type='text/css'><!-- Raleway font -->
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;.subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'><!-- Open Sans font -->
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<!-- Bootstrap CSS -->
+		
+<!-- Animate -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw" crossorigin="anonymous">
+
+<!-- Theme -->
+<link rel="stylesheet" href="./../styles/prosilver_plug/theme/website/css/theme.css">
+<link rel="stylesheet" href="./../styles/prosilver_plug/theme/website/css/responsive.css">
+
+<!-- PLUG WEBSITE END -->
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - PLUG" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e">			<link rel="alternate" type="application/atom+xml" title="Feed - Novos Tópicos" href="/app.php/feed/topics?sid=265ce10eef61a21164b4470d1970897e">				
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+
+<link href="./../assets/css/font-awesome.min.css?assets_version=23" rel="stylesheet">
+<link href="./../styles/prosilver_plug/theme/stylesheet.css?assets_version=23" rel="stylesheet">
+<link href="./../styles/prosilver_plug/theme/pt/stylesheet.css?assets_version=23" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./../styles/prosilver_plug/theme/tweaks.css?assets_version=23" rel="stylesheet">
+<![endif]-->
+
+
+<link href="./../ext/paul999/mention/styles/all/theme/mention.css?assets_version=23" rel="stylesheet" media="screen" />
+
+
+
+<!-- PLUG WEBSITE BEGIN -->
+<link rel="stylesheet" href="./../styles/prosilver_plug/theme/website/css/forum.css">
+<!-- PLUG WEBSITE END -->
+
+<!-- PLUG BEGIN -->
+<link rel="stylesheet" type="text/css" href="https://forum.plug.pt/setinfo/css/tipped/tipped.css"/>
+<!-- PLUG END-->
+
+</head>
+<body id="phpbb" class="nojs notouch section-index// ltr ">
+
+
+
+<!-- PLUG WEBSITE HEADER -->
+<div id="header-wrapper">
+		<div class="navbar navbar-expand-md navbar-light bg-white fixed-top">
+			<div class="container d-flex justify-content-between">
+				<a class="navbar-brand" href="http://www.plug.pt/index.html">
+					<img class="img-fluid" src="./../styles/prosilver_plug/theme/website/img/logo-website.png" alt="PLUG - Associação Portuguesa de Utilizadores de LEGO"/>
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"/>
+				</button>
+	
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">			
+							<a class="nav-link" href="http://www.plug.pt/index.html">Home</a>
+						</li>
+						<!--<li class="nav-item dropdown">-->
+						<li class="nav-item dropright">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PLUG</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+								<a class="dropdown-item" href="http://www.plug.pt/quem-somos.html">Quem somos?</a>
+								<a class="dropdown-item" href="http://www.plug.pt/orgaos-sociais.html">Orgãos Sociais</a>
+								<a class="dropdown-item" href="http://www.plug.pt/estatutos.html">Estatutos</a>
+								<a class="dropdown-item" href="http://plug.pt/sites/default/files/plug/PLUG%20-%20Regulamento%20Interno.pdf">Regulamento Interno</a>
+								<div class="dropdown-divider"></div>
+								<a class="dropdown-item" href="http://brincka.pt">BRInCKa</a>
+							</div>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="http://www.plug.pt/eventos.html">Eventos</a>
+						</li>
+						<li class="nav-item active">
+							<a class="nav-link" href="http://forum.plug.pt">Forum</a>
+						</li>
+						<li class="nav-item">
+							<a class="navlink btn" href="mailto:info@plug.pt"><i class="icon fa-envelope"></i></a>
+						</li>
+						<li class="nav-item">
+							<a class="navlink btn" href="https://www.facebook.com/plug.pt"><i class="icon fa-facebook-square"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="page-title" class="page-title">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="title-container">
+						<div class="title">
+							<h1 class="title"><a href="./../index.php?sid=265ce10eef61a21164b4470d1970897e" title="Índice do Fórum">Forum</a></h1>
+						</div>	
+					</div>
+				</div>
+				<div class="col-md-6">
+															<div id="search-box" class="search-box search-header" role="search">
+							<form action="./../search.php?sid=265ce10eef61a21164b4470d1970897e" method="get" id="search">
+							<fieldset>
+								<input name="keywords" id="keywords" type="search" maxlength="128" title="Palavra-Chave" class="inputbox search tiny" size="20" value="" placeholder="Pesquisar…" />
+								<button class="button button-search" type="submit" title="Pesquisar">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Pesquisar</span>
+								</button>
+								<a href="./../search.php?sid=265ce10eef61a21164b4470d1970897e" class="button button-search-end" title="Pesquisa avançada">
+									<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Pesquisa avançada</span>
+								</a>
+								<input type="hidden" name="sid" value="265ce10eef61a21164b4470d1970897e" />
+
+							</fieldset>
+							</form>
+						</div>
+																</div>
+			</div>
+		</div>
+	</div>
+	<!-- PLUG WEBSITE HEADER END -->
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Links rápidos</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./../search.php?search_id=unanswered&amp;sid=265ce10eef61a21164b4470d1970897e" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Tópicos sem resposta</span>
+								</a>
+							</li>
+							<li>
+								<a href="./../search.php?search_id=active_topics&amp;sid=265ce10eef61a21164b4470d1970897e" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Tópicos ativos</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./../search.php?sid=265ce10eef61a21164b4470d1970897e" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Pesquisar</span>
+								</a>
+							</li>
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php/help/faq?sid=265ce10eef61a21164b4470d1970897e" rel="help" title="Questões Mais Frequentes" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./../ucp.php?mode=login&amp;sid=265ce10eef61a21164b4470d1970897e" title="Ligue-se" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Ligue-se</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./../ucp.php?mode=register&amp;sid=265ce10eef61a21164b4470d1970897e" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Registe-se</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+								<li class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+										<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="./../index.php?sid=265ce10eef61a21164b4470d1970897e" itemtype="https://schema.org/Thing" itemprop="item" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Índice do Fórum</span></a><meta itemprop="position" content="1" /></span>
+
+								</li>
+		
+					<li class="rightside responsive-search">
+				<a href="./../search.php?sid=265ce10eef61a21164b4470d1970897e" title="Ver opções avançadas de pesquisa" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Pesquisar</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<p class="right responsive-center time">Data/Hora: 07 set 2020, 06:46</p>
+
+
+
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+										<dl class="row-item">
+						<dt><div class="list-inner"><a href="./../viewforum.php?f=62&amp;sid=265ce10eef61a21164b4470d1970897e">Geral</a></div></dt>
+						<dd class="topics">Tópicos</dd>
+						<dd class="posts">Mensagens</dd>
+						<dd class="lastpost"><span>Última Mensagem</span></dd>
+					</dl>
+									</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Informações Gerais, Perguntas e Normas" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=5">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Informações Gerais, Perguntas e Normas</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=5&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Informações Gerais, Perguntas e Normas</a>
+						<br />Informações sobre a PLUG, o Site e o Fórum.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>180</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">180 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">1983 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=5&amp;p=159340&amp;sid=265ce10eef61a21164b4470d1970897e#p159340" title="Re: Comprar Minifiguras" class="lastsubject">Re: Comprar Minifiguras</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=6601&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">BAndy</a>																	<a href="./../viewtopic.php?f=5&amp;p=159340&amp;sid=265ce10eef61a21164b4470d1970897e#p159340" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />26 ago 2020, 11:43
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Apresentações" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=17">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Apresentações</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=17&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Apresentações</a>
+						<br />Para te dares a conhecer à comunidade deste fórum.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>507</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">507 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">7503 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=17&amp;p=157929&amp;sid=265ce10eef61a21164b4470d1970897e#p157929" title="Re: Apresentação do Arcanjo" class="lastsubject">Re: Apresentação do Arcanjo</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=6806&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">CyberX</a>																	<a href="./../viewtopic.php?f=17&amp;p=157929&amp;sid=265ce10eef61a21164b4470d1970897e#p157929" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />13 fev 2020, 05:41
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Notícias" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=10">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Notícias</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=10&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Notícias</a>
+						<br />Para te manteres informado sobre o que se passa no mundo LEGO!												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>754</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">754 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">13595 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=10&amp;p=159414&amp;sid=265ce10eef61a21164b4470d1970897e#p159414" title="Re: Resultados semestrais do Grupo LEGO" class="lastsubject">Re: Resultados semestrais d...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=6806&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">CyberX</a>																	<a href="./../viewtopic.php?f=10&amp;p=159414&amp;sid=265ce10eef61a21164b4470d1970897e#p159414" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />04 set 2020, 07:24
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - MOCs &amp; MODs" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=9">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MOCs &amp; MODs</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=9&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">MOCs &amp; MODs</a>
+						<br />As nossas criações: MOCs, MODs, técnicas de construção.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>2947</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">2947 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">28739 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=9&amp;p=159369&amp;sid=265ce10eef61a21164b4470d1970897e#p159369" title="Re: [MOD] Grand Piano" class="lastsubject">Re: [MOD] Grand Piano</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=6806&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">CyberX</a>																	<a href="./../viewtopic.php?f=9&amp;p=159369&amp;sid=265ce10eef61a21164b4470d1970897e#p159369" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />27 ago 2020, 13:40
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Sala dos brinquedos" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=2">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Sala dos brinquedos</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=2&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Sala dos brinquedos</a>
+						<br />Para conversar sobre tudo o que tenha que ver com LEGO.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>850</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">850 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">12518 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=2&amp;p=159420&amp;sid=265ce10eef61a21164b4470d1970897e#p159420" title="Re: Qual foi o último set que compraste?" class="lastsubject">Re: Qual foi o último set q...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=85&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">AVCampos</a>																	<a href="./../viewtopic.php?f=2&amp;p=159420&amp;sid=265ce10eef61a21164b4470d1970897e#p159420" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />Ontem, 17:24
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - PLUGFEST e outros Eventos" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=28">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - PLUGFEST e outros Eventos</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=28&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">PLUGFEST e outros Eventos</a>
+						<br />Os encontros e reuniões da comunidade AFOL!												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>341</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">341 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">10161 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=28&amp;p=159403&amp;sid=265ce10eef61a21164b4470d1970897e#p159403" title="Digital AFOL Day at LEGO House" class="lastsubject">Digital AFOL Day at LEGO House</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=85&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">AVCampos</a>																	<a href="./../viewtopic.php?f=28&amp;p=159403&amp;sid=265ce10eef61a21164b4470d1970897e#p159403" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />02 set 2020, 22:26
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Software" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=18">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Software</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=18&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Software</a>
+						<br />Quando a informática e o LEGO se unem!												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>209</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">209 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">1584 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=18&amp;p=158888&amp;sid=265ce10eef61a21164b4470d1970897e#p158888" title="Re: Dá um toque LEGO às tuas chamadas de vídeo" class="lastsubject">Re: Dá um toque LEGO às tua...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=21&amp;sid=265ce10eef61a21164b4470d1970897e" style="color: #AA0000;" class="username-coloured">gads</a>																	<a href="./../viewtopic.php?f=18&amp;p=158888&amp;sid=265ce10eef61a21164b4470d1970897e#p158888" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />15 mai 2020, 19:28
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Reviews" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=31">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Reviews</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=31&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Reviews</a>
+						<br />Aqui podes encontrar "Reviews" sobre conjuntos Oficiais da LEGO												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>171</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">171 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">1511 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=31&amp;p=142318&amp;sid=265ce10eef61a21164b4470d1970897e#p142318" title="Re: [Review] Ecto 1 &amp; 2 - 75828 " class="lastsubject">Re: [Review] Ecto 1 &amp; 2 - 7...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=40&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">spacemarine</a>																	<a href="./../viewtopic.php?f=31&amp;p=142318&amp;sid=265ce10eef61a21164b4470d1970897e#p142318" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />22 jul 2016, 19:25
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Pergunta à LEGO®" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=32">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Pergunta à LEGO®</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=32&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Pergunta à LEGO®</a>
+						<br />Coloca aqui as questões/sugestões que gostarias de endereçar à LEGO.<br>
+<br>
+Nós fazêmo-las chegar ao destino!												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>51</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">51 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">342 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=32&amp;p=156667&amp;sid=265ce10eef61a21164b4470d1970897e#p156667" title="Re: LEGO Education - Distribuidor para Portugal" class="lastsubject">Re: LEGO Education - Distri...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=85&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">AVCampos</a>																	<a href="./../viewtopic.php?f=32&amp;p=156667&amp;sid=265ce10eef61a21164b4470d1970897e#p156667" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />11 set 2019, 13:53
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - LEGO Ambassador @ PLUG" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=33">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - LEGO Ambassador @ PLUG</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=33&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">LEGO Ambassador @ PLUG</a>
+						<br />Secção para interagir (informações, troca de ideias, etc...) com o LEGO Ambassador que representa a PLUG, junto da LEGO.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>177</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">177 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">2201 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=33&amp;p=159334&amp;sid=265ce10eef61a21164b4470d1970897e#p159334" title="Re: Limites na Shop@Home - Elementos Electrónicos" class="lastsubject">Re: Limites na Shop@Home - ...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=6806&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">CyberX</a>																	<a href="./../viewtopic.php?f=33&amp;p=159334&amp;sid=265ce10eef61a21164b4470d1970897e#p159334" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />26 ago 2020, 07:07
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - International" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=19">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - International</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=19&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">International</a>
+						<br />For the non-Portuguese speakers / Para os que não falam português												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>8</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">8 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">24 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=19&amp;p=145277&amp;sid=265ce10eef61a21164b4470d1970897e#p145277" title="Re: Página da votação do concurso &quot;New Year's Brick 2017&quot; - Final" class="lastsubject">Re: Página da votação do co...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=2439&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">vagrant</a>																	<a href="./../viewtopic.php?f=19&amp;p=145277&amp;sid=265ce10eef61a21164b4470d1970897e#p145277" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />10 fev 2017, 15:07
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Off-Topic" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=1">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Off-Topic</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=1&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Off-Topic</a>
+						<br />Para conversar sobre tudo e sobre nada.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>833</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">833 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">16483 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=1&amp;p=159388&amp;sid=265ce10eef61a21164b4470d1970897e#p159388" title="Re: O que vais fazer hoje? ( Actividades LEGO)" class="lastsubject">Re: O que vais fazer hoje? ...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=96&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">PocasNuckie</a>																	<a href="./../viewtopic.php?f=1&amp;p=159388&amp;sid=265ce10eef61a21164b4470d1970897e#p159388" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />29 ago 2020, 17:33
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+				</ul>
+
+			</div>
+		</div>
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+										<dl class="row-item">
+						<dt><div class="list-inner"><a href="./../viewforum.php?f=63&amp;sid=265ce10eef61a21164b4470d1970897e">Temas</a></div></dt>
+						<dd class="topics">Tópicos</dd>
+						<dd class="posts">Mensagens</dd>
+						<dd class="lastpost"><span>Última Mensagem</span></dd>
+					</dl>
+									</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Cidade e Comboio" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=20">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Cidade e Comboio</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=20&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Cidade e Comboio</a>
+						<br />Para os entusiastas dos temas contemporâneos.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>220</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">220 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">4145 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=20&amp;p=158864&amp;sid=265ce10eef61a21164b4470d1970897e#p158864" title="Re: Mudança das rodas dos comboios: uma explicação" class="lastsubject">Re: Mudança das rodas dos c...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=85&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">AVCampos</a>																	<a href="./../viewtopic.php?f=20&amp;p=158864&amp;sid=265ce10eef61a21164b4470d1970897e#p158864" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />13 mai 2020, 17:26
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Espaço" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=21">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Espaço</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=21&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Espaço</a>
+						<br />Para os entusiastas da exploração espacial do futuro!												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>145</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">145 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">3310 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=21&amp;p=158868&amp;sid=265ce10eef61a21164b4470d1970897e#p158868" title="Re: Suporte para X-Wing" class="lastsubject">Re: Suporte para X-Wing</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=40&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">spacemarine</a>																	<a href="./../viewtopic.php?f=21&amp;p=158868&amp;sid=265ce10eef61a21164b4470d1970897e#p158868" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />14 mai 2020, 01:39
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Histórico" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=22">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Histórico</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=22&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Histórico</a>
+						<br />Para os entusiastas das batalhas épicas da história universal!												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>73</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">73 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">1306 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=22&amp;p=152112&amp;sid=265ce10eef61a21164b4470d1970897e#p152112" title="Re: Diorama Medieval colaborativo" class="lastsubject">Re: Diorama Medieval colabo...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=40&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">spacemarine</a>																	<a href="./../viewtopic.php?f=22&amp;p=152112&amp;sid=265ce10eef61a21164b4470d1970897e#p152112" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />11 jun 2018, 19:01
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - LEGO Technic &amp; MINDSTORMS" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=23">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - LEGO Technic &amp; MINDSTORMS</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=23&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">LEGO Technic &amp; MINDSTORMS</a>
+						<br />Para os mais especializados em mecânica e electrónica em LEGO.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>648</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">648 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">8314 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=23&amp;p=159306&amp;sid=265ce10eef61a21164b4470d1970897e#p159306" title="Re: Technic/MINDSTORMS Videos @ YouTube" class="lastsubject">Re: Technic/MINDSTORMS Vide...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=21&amp;sid=265ce10eef61a21164b4470d1970897e" style="color: #AA0000;" class="username-coloured">gads</a>																	<a href="./../viewtopic.php?f=23&amp;p=159306&amp;sid=265ce10eef61a21164b4470d1970897e#p159306" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />15 ago 2020, 22:17
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="Não há novas mensagens">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Outros" href="/app.php/feed?sid=265ce10eef61a21164b4470d1970897e?f=24">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Outros</span>
+								</a>
+							-->
+																		<a href="./../viewforum.php?f=24&amp;sid=265ce10eef61a21164b4470d1970897e" class="forumtitle">Outros</a>
+						<br />Outros temas LEGO que não se enquadrem nas secções anteriores.												
+												<div class="responsive-show" style="display: none;">
+															Tópicos: <strong>113</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">113 <dfn>Tópicos</dfn></dd>
+					<dd class="posts">1399 <dfn>Mensagens</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Última Mensagem</dfn>
+																										<a href="./../viewtopic.php?f=24&amp;p=158712&amp;sid=265ce10eef61a21164b4470d1970897e#p158712" title="Re: Ideias para o LEGO Ideas que vale a pena destacar" class="lastsubject">Re: Ideias para o LEGO Idea...</a> <br />
+																	por <a href="./../memberlist.php?mode=viewprofile&amp;u=85&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">AVCampos</a>																	<a href="./../viewtopic.php?f=24&amp;p=158712&amp;sid=265ce10eef61a21164b4470d1970897e#p158712" title="Veja a última Mensagem">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Veja a última Mensagem</span>
+									</a>
+																<br />10 abr 2020, 20:29
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+				</ul>
+
+			</div>
+		</div>
+		
+
+
+	<form method="post" action="./../ucp.php?mode=login&amp;sid=265ce10eef61a21164b4470d1970897e" class="headerspace">
+	<h3><a href="./../ucp.php?mode=login&amp;sid=265ce10eef61a21164b4470d1970897e">Ligue-se</a>&nbsp; &bull; &nbsp;<a href="./../ucp.php?mode=register&amp;sid=265ce10eef61a21164b4470d1970897e">Registe-se</a></h3>
+		<fieldset class="quick-login">
+			<label for="username"><span>Utilizador:</span> <input type="text" tabindex="1" name="username" id="username" size="10" class="inputbox" title="Utilizador" /></label>
+			<label for="password"><span>Senha:</span> <input type="password" tabindex="2" name="password" id="password" size="10" class="inputbox" title="Senha" autocomplete="off" /></label>
+							<a href="./../ucp.php?mode=sendpassword&amp;sid=265ce10eef61a21164b4470d1970897e">Esqueci-me da senha</a>
+										<span class="responsive-hide">|</span> <label for="autologin">Lembrar-me <input type="checkbox" tabindex="4" name="autologin" id="autologin" /></label>
+						<input type="submit" tabindex="5" name="login" value="Ligue-se" class="button2" />
+			<input type="hidden" name="redirect" value="./index.php//?sid=265ce10eef61a21164b4470d1970897e" />
+<input type="hidden" name="creation_time" value="1599457573" />
+<input type="hidden" name="form_token" value="d48c3abe8480a14a3ab0221e0432bfe765359d51" />
+
+			
+		</fieldset>
+	</form>
+
+
+	<div class="stat-block online-list">
+		<h3>Quem está ligado:</h3>		<p>
+						No total, há <strong>31</strong> utilizadores ligados :: 2 registados, 0 escondido e 29 visitantes (baseado nos utilizadores ativos nos últimos 5 minutos)<br />O recorde de utilizadores online foi de 381 em 15 jan 2020, 09:33<br /> 
+								</p>
+	</div>
+
+
+
+	<div class="stat-block statistics">
+		<h3>Estatísticas do Fórum:</h3>
+		<p>
+						Total de mensagens <strong>159063</strong> &bull; Total de tópicos <strong>11834</strong> &bull; Total de membros <strong>1187</strong> &bull; <a href="./../memberlist.php?mode=viewprofile&amp;u=7392&amp;sid=265ce10eef61a21164b4470d1970897e" class="username">Sirimortal</a> é o(a) nosso(a) Utilizador(a) mais recente. Bem-vindo(a) ao Fórum
+					</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./../index.php?sid=265ce10eef61a21164b4470d1970897e" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Índice do Fórum</span></a></span>					</li>
+		
+				<li class="rightside">O Fuso Horário do Fórum é <span title="Europa/Lisbon">UTC+01:00</span></li>
+							<li class="rightside">
+				<a href="./../ucp.php?mode=delete_cookies&amp;sid=265ce10eef61a21164b4470d1970897e" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Apagar cookies</span>
+				</a>
+			</li>
+																<li class="rightside" data-last-responsive="true">
+				<a href="./../memberlist.php?mode=contactadmin&amp;sid=265ce10eef61a21164b4470d1970897e" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contacte-nos</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Desenvolvido por <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright">Traduzido por: <a href="http://www.phpbb-pt.com">phpBB Portugal</a></span>
+		</p>
+						<p class="footer-row">
+			<a class="footer-link" href="./../ucp.php?mode=privacy&amp;sid=265ce10eef61a21164b4470d1970897e" title="Privacidade" role="menuitem">
+				<span class="footer-link-text">Privacidade</span>
+			</a>
+			|
+			<a class="footer-link" href="./../ucp.php?mode=terms&amp;sid=265ce10eef61a21164b4470d1970897e" title="Termos" role="menuitem">
+				<span class="footer-link-text">Termos</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erro AJAX" data-ajax-error-text="Algo de errado ocorreu enquanto o seu pedido era processado." data-ajax-error-text-abort="Utilizador abortou pedido." data-ajax-error-text-timeout="O seu pedido expirou; tente novamente." data-ajax-error-text-parsererror="Algo de errado ocorreu com o pedido e o servidor devolveu uma resposta inválida.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erro" data-l-timeout-processing-req="O pedido excedeu o tempo.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	<img src="./../cron.php?cron_type=cron.task.core.tidy_sessions&amp;sid=265ce10eef61a21164b4470d1970897e" width="1" height="1" alt="cron" /></div>
+
+<!-- PLUG WEBSITE BEGIN -->
+<div id="copyright-container" class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+				<img class="logo img-fluid" src="./../styles/prosilver_plug/theme/website/img/logo-plug-bg-trans.png" alt="PLUG - Associação Portuguesa de Utilizadores de LEGO"/>
+			</div>
+			<div class="col-md-4">
+				<p>Copyright © 2018 PLUG - Associação Portuguesa de Utilizadores de LEGO.<br/> 
+				Todos os direitos reservados.</p>
+			</div>
+			<div class="col-md-5">
+				<p>LEGO® é uma marca registada da LEGO Company, que não patrocina nem apoia este site.<br/> 
+				O site LEGO® poderá ser visitado em <a href="https://www.lego.com" target="_blank">www.lego.com</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- PLUG WEBSITE END -->
+
+<script src="./../assets/javascript/jquery.min.js?assets_version=23"></script>
+<script src="./../assets/javascript/core.js?assets_version=23"></script>
+
+
+
+<script src="./../styles/prosilver/template/forum_fn.js?assets_version=23"></script>
+<script src="./../styles/prosilver/template/ajax.js?assets_version=23"></script>
+
+
+
+<!-- PLUG WEBSITE BEGIN -->
+<!-- JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<!-- PLUG WEBSITE END -->
+
+<!-- PLUG BEGIN -->
+<script type="text/javascript" src="https://forum.plug.pt/setinfo/js/spinners/spinners.min.js"></script>
+<script type="text/javascript" src="https://forum.plug.pt/setinfo/js/tipped/tipped.js"></script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		// loop over each element and create a tooltip using the data-attribute
+		$('.tipped_setinfo').each(function() {
+		//Tipped.create(this, {
+		//  ajax: { data: $(this).data(\'querystring\') }
+		//});
+		Tipped.create(this, { ajax: true });
+		});
+	});
+</script>
+<!-- PLUG END -->
+
+</body>
+</html>
